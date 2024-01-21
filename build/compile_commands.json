@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lcf/c/test/build",
+  "command": "/usr/bin/gcc  -I/home/lcf/c/test/inc -g -std=gnu11 -o CMakeFiles/test1.dir/main.c.o -c /home/lcf/c/test/main.c",
+  "file": "/home/lcf/c/test/main.c"
+}
+]

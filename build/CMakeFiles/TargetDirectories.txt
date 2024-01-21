@@ -1,0 +1,3 @@
+/home/lcf/c/test/build/CMakeFiles/test1.dir
+/home/lcf/c/test/build/CMakeFiles/edit_cache.dir
+/home/lcf/c/test/build/CMakeFiles/rebuild_cache.dir
